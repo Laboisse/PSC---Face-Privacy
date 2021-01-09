@@ -1,4 +1,4 @@
-# PSC-Face-Privacy
+# PSC - Face Privacy
 
 ## Introduction
 PSC à l'Ecole Polytechnique, en collaboration avec Accenture Labs (2020-2021)
